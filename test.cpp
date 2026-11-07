@@ -7,5 +7,6 @@ int main() {
 
     cout << "this is benhaaard" << endl;
     count << "this is iyoook" << endl;
+    count << "this is iyoook" << endl;
     return 0;
 }
